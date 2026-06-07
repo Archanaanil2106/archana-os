@@ -1,4 +1,4 @@
-# ArchanaOS
+# AOS
 
 A hobby operating system built from scratch while learning low-level systems programming, computer architecture, and kernel development.
 
